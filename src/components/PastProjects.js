@@ -11,12 +11,12 @@ const PastProjects = () => {
     {
       url: 'https://github.com/erickstm87/bike-checker',
       title: 'Bike Checker',
-      description: 'During the Covid shortage I wrote a scraper in Golang that checked Pinkbike for the listings I was interested in. AWS Lambda, Golang, Twilio, DynamoDB.'
+      description: 'During the Covid shortage I wrote a web scraper in Golang that checked Pinkbike for the listings I was interested in. AWS Lambda, Golang, Twilio, DynamoDB.'
     },
     {
       url: 'https://github.com/erickstm87/strava-backend/blob/main/server/index.js',
       title: 'Strava Directions',
-      description: 'Before it was a feature of Strava I wrote where you could put in the id of a saved route and it would give you driving directions from your current location. Saved me a ton of time and effort. Axios, JS, and Firebase'
+      description: 'Before it was a feature on Strava I wrote a program where you could put in the id of a saved route and it would give you driving directions from your current location. Saved me a ton of time and effort. Axios, JS, and Firebase'
     }
   ];
 
