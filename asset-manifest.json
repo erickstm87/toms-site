@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/toms-site/static/css/main.6e23a907.css",
-    "main.js": "/toms-site/static/js/main.70cc82d3.js",
+    "main.js": "/toms-site/static/js/main.f751c96d.js",
     "static/js/453.2456c706.chunk.js": "/toms-site/static/js/453.2456c706.chunk.js",
     "index.html": "/toms-site/index.html",
     "main.6e23a907.css.map": "/toms-site/static/css/main.6e23a907.css.map",
-    "main.70cc82d3.js.map": "/toms-site/static/js/main.70cc82d3.js.map",
+    "main.f751c96d.js.map": "/toms-site/static/js/main.f751c96d.js.map",
     "453.2456c706.chunk.js.map": "/toms-site/static/js/453.2456c706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e23a907.css",
-    "static/js/main.70cc82d3.js"
+    "static/js/main.f751c96d.js"
   ]
 }
