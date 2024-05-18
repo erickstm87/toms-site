@@ -21,12 +21,11 @@ const Projects = () => {
   ];
 
   return (
-    <Paper style={{ padding: '1rem', backgroundColor: '#f5f5dc' }}>
+    <Paper style={{ padding: '1rem', backgroundColor: '#f5f5dc', marginBottom: '1rem'}}>
       <Typography variant="h4" component="h2" style={{ fontFamily: 'Courier New, monospace' }}>
-        Projects
+        Current Projects
       </Typography>
       <Typography variant="body1" component="div" style={{ fontFamily: 'Courier New, monospace' }}>
-        <h2>IOT Development</h2>
         <ul>
           {projects.map((project, index) => (
             <li key={index}>

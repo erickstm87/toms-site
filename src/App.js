@@ -3,6 +3,7 @@ import { Container } from '@mui/material';
 import AboutMe from './components/AboutMe';
 import Career from './components/Career';
 import Projects from './components/Projects';
+import PastProjects from './components/PastProjects';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <AboutMe />
       <Career />
       <Projects />
+      <PastProjects />
     </Container>
   );
 }
