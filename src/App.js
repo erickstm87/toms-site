@@ -10,8 +10,8 @@ function App() {
     <Container maxWidth="md" style={{ marginTop: '2rem' }}>
       <AboutMe />
       <Career />
-      <Projects />
       <PastProjects />
+      <Projects />
     </Container>
   );
 }

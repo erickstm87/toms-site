@@ -21,7 +21,7 @@ const PastProjects = () => {
   ];
 
   return (
-    <Paper style={{ padding: '1rem', backgroundColor: '#f5f5dc' }}>
+    <Paper style={{ padding: '1rem', backgroundColor: '#f5f5dc', marginBottom: '1rem'}}>
       <Typography variant="h4" component="h2" style={{ fontFamily: 'Courier New, monospace' }}>
         Past Projects
       </Typography>
